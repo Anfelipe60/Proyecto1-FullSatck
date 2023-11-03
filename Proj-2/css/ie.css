@@ -1,0 +1,30 @@
+
+
+.camera_pag {
+	left: auto;
+	margin-left: 0;
+	margin-right: -470px;
+	right: 50%;
+}
+
+.class {
+	behavior: url(js/PIE.htc);
+	position: relative;
+}
+
+
+
+
+
+#form .invalid .error-message, #form .empty .empty-message {
+	display: block;
+}
+
+#form .error-message, #form .empty-message {
+	display: none;
+}
+
+.cat  strong, a.gal1 strong { 
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=70);
+
+}
